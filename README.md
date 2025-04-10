@@ -86,7 +86,8 @@ dio-java-estudos/
 
 ## 📚 Materiais de Apoio
 
-Esta seção contém conteúdos extras que complementam os estudos teóricos e práticos.
+🔧 *Esta seção será preenchida futuramente com conteúdos extras.*
+
 
 ### 📖 Fontes utilizadas nos resumos
 
