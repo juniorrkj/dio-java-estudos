@@ -88,14 +88,6 @@ dio-java-estudos/
 
 Esta seção contém conteúdos extras que complementam os estudos teóricos e práticos.
 
-- [Links úteis de estudo](materiais/links_uteis.md)
-- [Cheatsheets (colinhas rápidas)](materiais/cheatsheets/)
-- [Diagramas UML e imagens de apoio](materiais/uml_diagramas/)
-- [Artigos e leituras complementares](materiais/artigos_estudo/)
-- [📖 Fontes utilizadas nos resumos](materiais/fontes_referencia.md)
-
----
-
 ### 📖 Fontes utilizadas nos resumos
 
 - [GitBook “Java” – Felipe Aguiar (DIO)](https://felipe-aguiar.gitbook.io/dio-java/gitbook)
