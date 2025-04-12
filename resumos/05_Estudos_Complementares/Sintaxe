@@ -24,6 +24,7 @@ public class main {
         float f = 10.5F;
         double d = 20.5;
         char c = 'A';
+	String str = "Claudiano"
         boolean bool = true;
         */
         }
